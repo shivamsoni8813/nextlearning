@@ -1,0 +1,9 @@
+{
+    "title":"How To Learn NextJS",
+    "Content":"Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation. React documentation mentions Next.js among Recommended Toolchains advising it to developers when building a server-rendered website with Node.js.[5] Where traditional React apps can only render their content in the client-side browser, Next.js extends this functionality to include applications rendered on the server-side. The copyright and trademarks for Next.js are owned by Vercel,[6] which also maintains and leads its open-source development.[7]",
+    "author" : "Shivam Soni",
+    "image":"https://blog.logrocket.com/wp-content/uploads/2021/09/next-js-automatic-image-optimization-next-image.png",
+    "time":"09:45 thursday",
+    "Date":"30-03-2020",
+    "slug":"next"
+}

@@ -1,0 +1,14 @@
+.container
+{
+    text-align: center;
+
+}
+.container p{
+    padding: 0px 10rem;
+}
+.footerDiv{
+    position: absolute;
+    right:  20%;
+    padding-top: 4rem;
+    z-index: 1;
+}
